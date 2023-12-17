@@ -1,1 +1,2 @@
 D:/Programming/FileTransfer/* filter=lfs diff=lfs merge=lfs -text
+D:/Programming/FileTransfer/venv* filter=lfs diff=lfs merge=lfs -text
